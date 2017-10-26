@@ -1,5 +1,4 @@
 # Convert list to string
-
 require(stringr)
 WordList <- str_split(readLines("textfile.txt"), pattern = " ")
 text<-paste(unlist(WordList), collapse=' ')
@@ -20,7 +19,6 @@ tibble<-text_df2 %>%
 tibblefiltered = tibble %>% filter(n > 1)
 
 # Wordclouds
-
 library(wordcloud)
 text_df2 %>%
   anti_join(stop_words) %>%
@@ -28,7 +26,6 @@ text_df2 %>%
   with(wordcloud(word, n, max.words = 100))
   
 # Sentiment Analysis with reshape
-
 library(reshape2)
 text_df2 %>%
   filter()
