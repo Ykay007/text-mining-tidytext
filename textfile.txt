@@ -1,0 +1,175 @@
+Companies in their infancy often start out making the same mistake. They sell the right product to the wrong market. The most frequent reason for this is that the company fails to take the time to understand their customer properly. They don’t use big data effectively.
+
+Forming a monetization strategy with big data
+
+Let’s suppose you’re a startup that runs a popular fashion blog. You wish to monetise your site by introducing a range of luxury fashion products. I’m using fashion as an example, but the tips I describe in this article could be generalised to any business that has a significant online presence.
+
+What type of customer should you look to attract? Are you going for a productbased strategy or a contentbased strategy?
+
+The answer to this question very much depends on your monetization strategy. For instance, let us suppose that you are targeting  year old females as your target market.
+
+Assuming you had built up a sizable audience from your content – AdSense advertising, affilliate marketing, or a website or magazine subscription might work quite well.
+
+big data fashion
+
+However, if you’re looking to sell expensive fashion products on the website – you may be out of luck. Many people in the  year old cohort are likely to be students or people who do not earn as high an income as other demographics.
+
+What’s worse is if you don’t have a particular target market. In other words, you’re simply putting out your content hoping anyone will read it.
+
+That’s a bad strategy, because even if you did get a high level of backlinks from social media, you will not get many conversions, i.e. your visitors will likely not subscribe to your newsletter or buy your products as they are likely deemed too irrelevant.
+
+With all that said, here are some tips that can help a growing company thrive when it comes to pinning down the right target market
+
+Choosing the right survey method is essential
+
+Often times, companies doing survey research either focus their attention exclusively on openended surveys ones where questions can be answered more extensively but cannot be easily analysed, or closedended surveys e.g. multiple choice questions where the responder is limited to a set number of answers but cannot add any additional thoughts or detail to their response.
+
+The key is to have both. Ideally, you would start off with an openended question
+
+What types of products would you be keen to buy from our store?
+You could expect to get several responses to this question, such as coats, shoes, belts, hats, luxury handbags, jewelry, etc.
+
+Once you have this information, you can then see the responses that are occuring most frequently and turn this into a multiple choice question.
+
+Of these products, which one would you be most likely to buy from our store?
+
+A Shoes	B Luxury Handbags	C Jewelry
+Once you’ve set up the question in closedended form, you can now quantify the likelihood of selling a specific product. From this, you can determine which product line is likely to see the most significant demand. Assuming how “big” you can make your big data, i.e. how many survey responses you can gather, the more data you collect – the more representative the data will likely be of actual sales performance in the future.
+
+Observe what type of customers are actually engaging with your brand
+
+More often than not, the type of customer you think would be willing to engage with your brand often turns out to be completely different.
+
+Going back to our example, you might start out wanting to target a more affluent demographic that are willing to spend significant sums in buying fashion products.
+
+However, as your mailing list grows, you find that the majority of subscribers are in fact students in the  age category. In this regard, you might consider a switch in your monetization strategy. Instead of trying to sell luxury products, perhaps you would be better served by selling fashion magazines or a website subscription.
+
+Identify your audience, and tailor your offerings accordingly.
+
+Pinpoint where these customers are coming from
+
+ of your results are determined by  of your efforts.
+
+When it comes to online marketing,  of your customers will come from  of your advertising sources.
+
+For instance, when I started this data science website, I noticed that many more of my email subscribers were coming from Google Plus and LinkedIn than Facebook or Twitter.
+
+This indicates that my audience or at least the ones most likely to engage with my content should be more heavily targeted by focusing my efforts on engaging with users across these specific social networks.
+
+If your business is heavily reliant on social media to gain engaging subscribers, then simply assuming Facebook and Twitter to be the de facto social networks to advertise your brand simply won’t cut it. Instagram would be a great choice for a fashion blogger to promote their products, but virtually useless for a programmer.
+
+Identify your ideal social networks, and then focus on developing your brand there.
+
+Pick your keywords carefully
+
+The web has become an exceptionally competitive marketplace. Unless you expect to see yourself as the next Yves Saint Laurent, you simply cannot afford to compete by attempting to serve the masses. If your keyword is simply “fashion”, your site will be drowned out by the masses of other ones looking to rank for this keyword.
+
+Instead, you want to define your niche as narrowly as possible. For instance, let’s suppose that your website wishes to sell wedding rings. Type “wedding rings” into Google, and you will get . million results. Therefore, it goes without saying that “wedding rings” should not be your keywords for SEO purposes.
+
+Instead, if you search for “moonstone wedding rings”, you get just under , results. Therefore, narrowing down your niche makes it much more likely that you get ranked on the first page of Google. What’s more, you are positioning yourself as a leader in your niche and attracting the customers who are specifically looking for your product.
+
+As I said, choose your keywords carefully…
+
+In terms of starting off with implementing more robust ways of targeting your ideal customer, there are two strategies in particular that you should be employing
+
+Split Testing
+
+Sp;it testing should be one of the main analysis tools in your arsenal. It has the potential to reveal valuable insights about your product/service offerings that you haven’t considered before.
+
+Other examples of split testing could be
+
+Sending separate subject lines in an email advertising campaign to determine which one has the highest response.
+Releasing two blogs on a similar topic but with different keywords in the title – expand on the article which gets the highest ranking.
+Conducting a period of advertising to two distinctly different demographics whether by age, country, social group, etc to determine the level of response.
+Advertising on one social network in isolation for a particular period, e.g. Facebook one week, Twitter the next. By analysing which ones show the highest hits and conversion rates, you are then in a position to focus your efforts accordingly.
+Set up a vibrant mailing list if you haven’t done so already
+
+You’ll notice that I mention mailing lists quite a lot. Oh, you haven’t started a mailing list yet? Well, start one yesterday. According to MailMunch, clickthrough rates from email are approximately  times that seen from Facebook and Twitter.
+
+Once a user has subscribed to your mailing list whether they originally came from social media or found your website organically, they have demonstrated that they are interested in your brand and want to hear more.
+
+In spite of how social media has grown, email is still the primary platform for a user to receive tailored content. And it is clear that the levels of engagement through email platforms are much higher than social media. It’s not enough to attract the customer, you want to keep them. Email marketing helps you do that.
+
+Moreover, having a mailing list is, in itself, a big data strategy. By analysing the profile of those subscribing to your list, you are gaining valuable information as to who is engaging with your message and can expand on that demographic accordingly.
+
+How To Set Up Your Market Survey
+
+While efforts such as split testing are highly important in unearthing your ideal target market, you can still save yourself a lot of hassle by attracting the right people in the first place.
+
+big data survey
+
+ClosedEnded Surveys
+
+When it comes to gathering data through closedended surveys the most common type, there are essentially three types of data you can collect
+
+Nominal Data
+
+Nominal data in a survey is a categorical response, i.e. one without a scale, just specific categories.
+
+Remember our question above?
+
+Of these products, which one would you be most likely to buy from our store?
+
+A Shoes	B Luxury Handbags	C Jewelry
+This is an example of a question with categorical responses, since the responder simply selects one. There is no intrinsic ordering or scale to the categories.
+
+Ordinal Data
+
+Now, suppose that the question was framed in such a way that provided a ranking to each of the products.
+
+On a scale of , how would you rate the following products from our store?
+
+Shoes
+
+									
+
+Luxury Handbags
+
+									
+
+Jewelry
+
+									
+Unlike in the case of the nominal response, you have now provided your responders with the opportunity to give you a ranking for each product. This type of response will likely give you better quality data than simply asking customers to pick their favourite.
+
+Interval Data
+
+Interval responses go one step further, and actually quantify information according to a scale.
+
+The limitation of ordinal responses is that responders can only select on the basis of the scale you have provided them, e.g. . However, consider the below question
+
+How many of the following products have you purchased from our store in the past year?
+
+Shoes			Insert Value Here
+
+Luxury Handbags	        Insert Value Here
+
+Jewelry			Insert Value Here
+Interval data allows the responder to define their own scale. As a result, you get much more detailed information with this method.
+
+In general, stick to nominal or ordinal scales when you wish to standardise results or keep them to a common scale. If you wish for the responder to essentially define their own scale, i.e. provide you with data specific to them, then go with an interval scale.
+
+How Can Big Data Be Used
+
+Now, the idea behind collecting survey data is not simply to add up your results and see what you get.
+
+There are many ways that we can analyse such data in a more sophisticated way.
+
+Suppose that you were surveying customers on their shopping and social media habits.
+
+Now, with this big data, you could end up generating a linear regression that tells you the following
+
+If a customer checks their Google Plus account more than  times a day, they are  more likely to buy one of your products.
+If a customer is using more than two social networks, then they are  less likely to buy.
+A customer who has subscribed but does not have any social media accounts are  more likely to buy.
+I’m using the above hypothetical figures as an example, but this is an example of the insights regression analysis can reveal. You might find that customers who found your website organically are much more likely to engage with your brand. Again, simply summing up survey results won’t necessarily tell you about this. For this reason, regression analysis is a highly popular tool used to analyse survey results. It allows businesses to focus their efforts on the customers that matter the most.
+
+If you’re more interested in the technical side of regression analysis, feel free to read the below posts
+
+Linear Models in R OLS and Logistic Regressions
+SAS Performing Logistic Regression on Survey Data with the New SURVEYLOGISTIC Procedure
+Conclusion
+
+I hope the above has outlined the importance of having a good big data strategy as a web entrepreneur. Simply trying to attract more page views is not a viable strategy – you need to keep in mind who your ideal audience is and how to best align your content and offerings with their needs.
+
+Using big data effectively is a huge step in making this process happen. Moreover, big data is data that can be collated from a variety of sources. Don’t simply stick to surveys or web analytics in isolation. Combine all the data you have as part of your comprehensive “big data” strategy. By doing so, you will reveal far more actionable insights by utilising a wide variety of sources.
